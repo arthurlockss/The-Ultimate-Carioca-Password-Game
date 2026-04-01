@@ -26,4 +26,4 @@ Para validar a senha, o usuário deve cumprir sequencialmente:
 O sistema utiliza uma `List<Requisito>` que é percorrida a cada entrada do usuário. O método `.firstOrNull` é utilizado para encontrar o primeiro critério não satisfeito, garantindo uma interface limpa onde o usuário resolve um problema de cada vez (Foco em UX).
 
 ---
-**Desenvolvido como exercício acadêmico de Engenharia de Software (4º Ano).**
+**Desenvolvido como exercício acadêmico de Engenharia de Software (5º Ano).**
